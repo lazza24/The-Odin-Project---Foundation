@@ -1,0 +1,17 @@
+div {
+  background-color: red;
+  font-size: 42px;
+  color: white;
+  font-weight: 900;
+  text-align: center;
+  padding: 2px 20px;
+}
+
+p {
+  background-color: green;
+  color: white;
+}
+
+button {
+  background-color: tomato;
+}
