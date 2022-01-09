@@ -1,0 +1,18 @@
+.bg_color {
+  background-color: #f69c9c;
+}
+
+.large {
+  font-size: 27px;
+}
+
+#green_bg {
+  background-color: #4bbf0c;
+  font-weight: 600;
+  font-size: 20px;
+}
+
+#blue_font {
+  color: #0c0fbf;
+  font-size: 38px;
+}
