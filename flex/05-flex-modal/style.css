@@ -25,14 +25,23 @@ body {
 }
 
 .header {
-  align-self: flex-start;
   font-weight: 900;
-  font-size: 25px;
+  font-size: 20px;
 }
 
 .flex {
   display: flex;
   justify-content: space-between;
+  align-items: flex-start;
+}
+
+.text {
+  margin: 12px 0;
+  border: 3px solid blue;
+}
+
+.icon-position {
+  padding-right: 20px;
 }
 
 .icon {
@@ -59,6 +68,10 @@ body {
   display: flex;
   align-items: center;
   justify-content: center;
+}
+
+.close-position {
+  border: 3px solid red;
 }
 
 button {
